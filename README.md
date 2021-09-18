@@ -1,2 +1,4 @@
 # hyperblog
-platzi blog
+jalem blog
+
+Creado por el increible jalemco
